@@ -1,4 +1,4 @@
-# Piada Aleatória
+# Piadas Aleatória
 
  ![preview](./.github/preview.gif)
  
